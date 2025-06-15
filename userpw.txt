@@ -1,3 +1,4 @@
 kurlung:selamattinggal
 parbada:tinggalkenangan
 belawan:matitanam
+zhyper:flow
